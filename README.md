@@ -1,3 +1,3 @@
 # Small-Fitness-App
 
-Academic Project
+2016 cademic Project
